@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\bin\Debug\Biz2Credit_Test.exe.config
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\bin\Debug\Biz2Credit_Test.exe
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\bin\Debug\Biz2Credit_Test.pdb
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\obj\Debug\Biz2Credit_Test.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\obj\Debug\Biz2Credit_Test.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\obj\Debug\Biz2Credit_Test.exe
+C:\Users\hp\source\repos\Biz2Credit_Test\Biz2Credit_Test\obj\Debug\Biz2Credit_Test.pdb
